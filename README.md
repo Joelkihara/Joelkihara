@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I’ve been learning to code for a few weeks now, after switching careers. I started with PYTHON, but have but really found a passion for frontend development. With time I will join backend to be a full stack developer.
+I’ve been learning to code for a few weeks now, after switching careers. I started with PYTHON, but have found a passion for frontend development. With time I will join backend to be a full stack developer.
 
 *   🌍  I'm based in Nairobi, Kenya
 *   ✉️  You can contact me at [joelkihara8@gmail.com](mailto:joelkihara8@gmail.com)
